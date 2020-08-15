@@ -1,0 +1,9 @@
+{
+  "name": "webserver",
+  "version": "1.0.0",
+  "description": "A simple web server built with node",
+  "main": "server.js",
+  "repository": "https://github.com/izabela-am/Node-Web-Server.git",
+  "author": "Izabela <izabela.m.alfenas@gmail.com>",
+  "license": "MIT"
+}
